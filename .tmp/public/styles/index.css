@@ -1,0 +1,28 @@
+#main {
+  margin-top: 50px;
+  text-align: center;
+}
+
+button.letter {
+  height: 63px;
+  width: 83px;
+}
+
+button.btn-success {
+   height: 63px;
+   width: 110px;
+}
+
+#clear {
+  height: 63px;
+  width:120px;
+}
+
+#back {
+  height: 63px;
+  width: 200px;
+}
+
+button>p {
+  font-size: 35px;
+}
