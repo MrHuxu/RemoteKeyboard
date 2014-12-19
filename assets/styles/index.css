@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+#url {
+  overflow: scroll;
+  color: #58559c;
+}
+
 button.letter {
   height: 63px;
   width: 83px;
