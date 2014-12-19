@@ -1,5 +1,12 @@
 #main {
+  text-align: center;
+}
+
+#main>h1 {
   margin-top: 50px;
+}
+
+#keyboard {
   text-align: center;
 }
 
@@ -10,7 +17,7 @@
 
 button.letter {
   height: 63px;
-  width: 83px;
+  width: 53px;
 }
 
 button.btn-success {
@@ -30,4 +37,12 @@ button.btn-success {
 
 button>p {
   font-size: 35px;
+}
+
+#history {
+  margin-top: 30px;
+}
+
+li {
+  width: 250px;
 }
