@@ -4,7 +4,7 @@
 }
 
 #url {
-  overflow: scroll;
+  overflow: auto;
   color: #58559c;
 }
 
