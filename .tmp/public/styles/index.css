@@ -40,9 +40,14 @@ button>p {
 }
 
 #history {
+  text-align: center;
   margin-top: 30px;
 }
 
 li {
   width: 250px;
+}
+
+li>div {
+  overflow: auto;
 }
